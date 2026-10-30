@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/gomizunooin-gyoshu-shui",
  "yomi": "ごみずのおいんぎょしゅうしゅうい",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "御集（拾遺）",
+  "era": "江戸前期",
+  "author": "後水尾院",
+  "desc": "後水尾院の歌のうち、御集に漏れたものを集めた拾遺。仙洞・禁裏の御会の詠のほか、十二時を詠み込んだ歌なども含む。"
+ },
  "editions": [
   {
    "pid": "945304",
